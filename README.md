@@ -47,7 +47,7 @@ MySQL database
 A local development server like XAMPP, WAMP, or LAMP.
 2. Clone the Repository:
 
-git clone https://github.com/dusanepooja/myonlinemeal.git
+git clone https://github.com/dusanepooja/Online-Food-Delivery-Website.git
 
 3. Running the Application:
 Place the project files in your server’s root directory (e.g., htdocs for XAMPP).
